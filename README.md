@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @markthuta
+- 👋 Hi, I’m @Yned
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning HTML,CSS,JS and Bootstrap
 - 💞️ I’m looking to collaborate on ...
